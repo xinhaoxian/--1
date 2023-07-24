@@ -283,7 +283,7 @@ elseif a=="HKOveadk"then
 _G.QB=true
 elseif a=="136skdoa"then
 _G.QB=true
-elseif a=="wos89d"then
+elseif a=="Wos89d"then
 _G.QB=true
 end
 if _G.QB==true then 
