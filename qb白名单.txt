@@ -1,0 +1,293 @@
+local a=tostring(game.Players.LocalPlayer.Character);
+if a=="xinhaoxian3"then
+_G.QB=true
+elseif a=="wusuus1"then
+_G.QB=true
+elseif a=="wfcgwty"then
+_G.QB=true
+elseif a=="pokico198911"then
+_G.QB=true
+elseif a=="xkhfshfxudtk"then
+_G.QB=true
+elseif a=="Roblo520lxf"then
+_G.QB=true
+elseif a=="HYEXCVHJB"then
+_G.QB=true
+elseif a=="tyhdtuu7"then
+_G.QB=true
+elseif a=="owiebdbie"then
+_G.QB=true
+elseif a=="pqkhkk"then
+_G.QB=true
+elseif a=="qweasr156"then
+_G.QB=true
+elseif a=="1231iwhsksh"then
+_G.QB=true
+elseif a=="shdhhlGH"then
+_G.QB=true
+elseif a=="N1_why"then
+_G.QB=true
+elseif a=="QWERTY"then
+_G.QB=true
+elseif a=="tskjvvjyghkjhjjj"then
+_G.QB=true
+elseif a=="XZPLKY"then
+_G.QB=true
+elseif a=="plmnkoijbvhuygcxfty"then
+_G.QB=true
+elseif a=="eqbtbrwx"then
+_G.QB=true
+elseif a=="ksnkebdks"then
+_G.QB=true
+elseif a=="zmz7894562"then
+_G.QB=true
+elseif a=="lyxtd666"then
+_G.QB=true
+elseif a=="SRH050713"then
+_G.QB=true
+elseif a=="zi111309"then
+_G.QB=true
+elseif a=="5754568vc"then
+_G.QB=true
+elseif a=="zhcchz334421"then
+_G.QB=true
+elseif a=="fifternoon"then
+_G.QB=true
+elseif a=="zkosjsiw"then
+_G.QB=true
+elseif a=="gmrgmrgmrff"then
+_G.QB=true
+elseif a=="ffjfcjid"then
+_G.QB=true
+elseif a=="qweasr250"then
+_G.QB=true
+elseif a=="6331hrfj"then
+_G.QB=true
+elseif a=="DooCC22"then
+_G.QB=true
+elseif a=="Arrogance54"then
+_G.QB=true
+elseif a=="CN_xswl"then
+_G.QB=true
+elseif a=="owkksje"then
+_G.QB=true
+elseif a=="yuihghghg"then
+_G.QB=true
+elseif a=="6331kje"then
+_G.QB=true
+elseif a=="Mmourenya"then
+_G.QB=true
+elseif a=="yjyyyds_2022"then
+_G.QB=true
+elseif a=="wszgr118"then
+_G.QB=true
+elseif a=="LYh21359"then
+_G.QB=true
+elseif a=="china456258"then
+_G.QB=true
+elseif a=="yuihuiniao"then
+_G.QB=true
+elseif a=="shdhhIGH"then
+_G.QB=true
+elseif a=="nil"then
+_G.QB=true
+elseif a=="osyxgksggx"then
+_G.QB=true
+elseif a=="123fesek"then
+_G.QB=true
+elseif a=="whywcy"then
+_G.QB=true
+elseif a=="zkosjsiw"then
+_G.QB=true
+elseif a=="ChinayDOORS"then
+_G.QB=true
+elseif a=="LGYSLG"then
+_G.QB=true
+elseif a=="skdjxjxjjk"then
+_G.QB=true
+elseif a=="ahsbvsnxk"then
+_G.QB=true
+elseif a=="ahsbvsnxkk"then
+_G.QB=true
+elseif a=="114514jkjk114514"then
+_G.QB=true
+elseif a=="1152ap"then
+_G.QB=true
+elseif a=="wan43689"then
+_G.QB=true
+elseif a=="1256mbfdtg"then
+_G.QB=true
+elseif a=="jdjfbfjrjgfgffbjdhdc"then
+_G.QB=true
+elseif a=="1152qq"then
+_G.QB=true
+elseif a=="wan43689"then
+_G.QB=true
+elseif a=="rctcttctc"then
+_G.QB=true
+elseif a=="gfgggfgghbvvbb5885"then
+_G.QB=true
+elseif a=="1234shshw1"then
+_G.QB=true
+elseif a=="moilkun"then
+_G.QB=true
+elseif a=="5754568vc"then
+_G.QB=true
+elseif a=="CN_chickencat9"then
+_G.QB=true
+elseif a=="99dfdf"then
+_G.QB=true
+elseif a=="jidaishuaibi"then
+_G.QB=true
+elseif a=="fishfs45"then
+_G.QB=true
+elseif a=="CN_foodbyet"then
+_G.QB=true
+elseif a=="jidaishuaibi"then
+_G.QB=true
+elseif a=="jidaishuaibi"then
+_G.QB=true
+elseif a=="ksrobloxwgsxh"then
+_G.QB=true
+elseif a=="jihijitt"then
+_G.QB=true
+elseif a=="CN_noo3"then
+_G.QB=true
+elseif a=="yydssxg"then
+_G.QB=true
+elseif a=="Diot_LKJ"then
+_G.QB=true
+elseif a=="Ehhsbsuj"then
+_G.QB=true
+elseif a=="zyw_966"then
+_G.QB=true
+elseif a=="xzh288"then
+_G.QB=true
+elseif a=="xzh2885"then
+_G.QB=true
+elseif a=="bcgjjjv4"then
+_G.QB=true
+elseif a=="sgvsvsc"then
+_G.QB=true
+elseif a=="aEgOOcC"then
+_G.QB=true
+elseif a=="xnxbjshjdg"then
+_G.QB=true
+elseif a=="6ikun6666"then
+_G.QB=true
+elseif a=="1152qq"then
+_G.QB=true
+elseif a=="deng_han"then
+_G.QB=true
+elseif a=="VIPyabc"then
+_G.QB=true
+elseif a=="chenliyan1"then
+_G.QB=true
+elseif a=="czx431"then
+_G.QB=true
+elseif a=="jshkjsnm"then
+_G.QB=true
+elseif a=="czx779"then
+_G.QB=true
+elseif a=="tianfa6"then
+_G.QB=true
+elseif a=="Timeikun6"then
+_G.QB=true
+elseif a=="ruhdjbfh"then
+_G.QB=true
+elseif a=="wc66662"then
+_G.QB=true
+elseif a=="Timeikuxg"then
+_G.QB=true
+elseif a=="smz577"then
+_G.QB=true
+elseif a=="qiekesa023"then
+_G.QB=true
+elseif a=="xinhaoxian2"then
+_G.QB=true
+elseif a=="zxxcglla6"then
+_G.QB=true
+elseif a=="qazzaqqwertyuiop"then
+_G.QB=true
+elseif a=="muzili0"then
+_G.QB=true
+elseif a=="sjsbsjshsss4"then
+_G.QB=true
+elseif a=="jj666a"then
+_G.QB=true
+elseif a=="ZF_001"then
+_G.QB=true
+elseif a=="hidjjwjwd"then
+_G.QB=true
+elseif a=="nvnvnvnlw"then
+_G.QB=true
+elseif a=="eghecsgj"then
+_G.QB=true
+elseif a=="Timeikunxg"then
+_G.QB=true
+elseif a=="czx767"then
+_G.QB=true
+elseif a=="wsbzdy"then
+_G.QB=true
+elseif a=="103rrrttt"then
+_G.QB=true
+elseif a=="cat_China"then
+_G.QB=true
+elseif a=="levelmcat"then
+_G.QB=true
+elseif a=="sanshsdqd"then
+_G.QB=true
+elseif a=="102rrrttt"then
+_G.QB=true
+elseif a=="skdjxjxjjk"then
+_G.QB=true
+elseif a=="widugrd"then
+_G.QB=true
+elseif a=="EHG_114513"then
+_G.QB=true
+elseif a=="yebdybhdhsbs"then
+_G.QB=true
+elseif a=="zxxcglla6"then
+_G.QB=true
+elseif a=="erth6645"then
+_G.QB=true
+elseif a=="ww153368"then
+_G.QB=true
+elseif a=="ljynje"then
+_G.QB=true
+elseif a=="CN_ZeChuan"then
+_G.QB=true
+elseif a=="hbkkvvvn"then
+_G.QB=true
+elseif a=="hnkhfsn"then
+_G.QB=true
+elseif a=="klfjsxh"then
+_G.QB=true
+elseif a=="AAAAAAAZXCVBNM"then
+_G.QB=true
+elseif a=="Jntm114514ctr"then
+_G.QB=true
+elseif a=="mmaja666"then
+_G.QB=true
+elseif a=="www_123wwe"then
+_G.QB=true
+elseif a=="egsttauwh"then
+_G.QB=true
+elseif a=="imagb_pro"then
+_G.QB=true
+elseif a=="Charahfhh"then
+_G.QB=true
+elseif a=="lx123456LX1"then
+_G.QB=true
+elseif a=="HKOveadk"then
+_G.QB=true
+elseif a=="7"then
+_G.QB=true
+elseif a=="8"then
+_G.QB=true
+end
+if _G.QB==true then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xinhaoxian/lingdu/main/Protected_8083981942876210.lua",true))()
+else 
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单请进群480236864")
+end
