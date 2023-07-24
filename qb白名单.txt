@@ -281,7 +281,7 @@ elseif a=="lx123456LX1"then
 _G.QB=true
 elseif a=="HKOveadk"then
 _G.QB=true
-elseif a=="7"then
+elseif a=="136skdoa"then
 _G.QB=true
 elseif a=="8"then
 _G.QB=true
