@@ -285,6 +285,14 @@ elseif a=="136skdoa"then
 _G.QB=true
 elseif a=="Wos89d"then
 _G.QB=true
+elseif a=="kkdisx"then
+_G.QB=true
+elseif a=="1"then
+_G.QB=true
+elseif a=="2"then
+_G.QB=true
+elseif a=="3"then
+_G.QB=true
 end
 if _G.QB==true then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xinhaoxian/lingdu/main/Protected_8083981942876210.lua",true))()
