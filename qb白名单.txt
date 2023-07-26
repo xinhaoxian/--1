@@ -287,7 +287,7 @@ elseif a=="Wos89d"then
 _G.QB=true
 elseif a=="kkdisx"then
 _G.QB=true
-elseif a=="1"then
+elseif a=="mbsbdbjsjd"then
 _G.QB=true
 elseif a=="2"then
 _G.QB=true
