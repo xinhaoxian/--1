@@ -289,9 +289,17 @@ elseif a=="kkdisx"then
 _G.QB=true
 elseif a=="mbsbdbjsjd"then
 _G.QB=true
-elseif a=="2"then
+elseif a=="czmsxsxsxs"then
+_G.QB=true
+elseif a=="1"then
 _G.QB=true
 elseif a=="3"then
+_G.QB=true
+elseif a=="7"then
+_G.QB=true
+elseif a=="9"then
+_G.QB=true
+elseif a=="2"then
 _G.QB=true
 end
 if _G.QB==true then 
