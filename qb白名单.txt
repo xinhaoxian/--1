@@ -291,7 +291,7 @@ elseif a=="mbsbdbjsjd"then
 _G.QB=true
 elseif a=="czmsxsxsxs"then
 _G.QB=true
-elseif a=="1"then
+elseif a=="qpwiwik"then
 _G.QB=true
 elseif a=="3"then
 _G.QB=true
