@@ -295,9 +295,9 @@ elseif a=="qpwiwik"then
 _G.QB=true
 elseif a=="wjg597"then
 _G.QB=true
-elseif a=="7"then
+elseif a=="yaohaocheng1"then
 _G.QB=true
-elseif a=="9"then
+elseif a=="ljynje"then
 _G.QB=true
 elseif a=="2"then
 _G.QB=true
