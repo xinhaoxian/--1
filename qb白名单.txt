@@ -299,7 +299,7 @@ elseif a=="yaohaocheng1"then
 _G.QB=true
 elseif a=="ljynje"then
 _G.QB=true
-elseif a=="2"then
+elseif a=="fuzenan_0"then
 _G.QB=true
 end
 if _G.QB==true then 
