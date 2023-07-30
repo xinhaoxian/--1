@@ -303,6 +303,8 @@ elseif a=="fuzenan_0"then
 _G.QB=true
 elseif a=="ZXCVBNM213141"then
 _G.QB=true
+elseif a=="fuzenan_0"then
+_G.QB=true
 end
 if _G.QB==true then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xinhaoxian/lingdu/main/Protected_8083981942876210.lua",true))()
